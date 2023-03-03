@@ -28,7 +28,7 @@ console.log("\n");
 
 
 // **************************** QUESTION 5 *****************************************
-//******** Attempt One *********/
+//******** Method One *********/
 
 function nearestPowerOf2(num) {
    for (let i = 0; i <= num; i++) {
@@ -57,7 +57,7 @@ console.log("The number", pwr, "is the power of 2 nearest to", num);
 }
 
 
-//******** Attempt Two *********/
+//******** Method Two *********/
 console.log("\n");    // Separating the output from the previous
 let num = 50;
 //Testing the code with other values
